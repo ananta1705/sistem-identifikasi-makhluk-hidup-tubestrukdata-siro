@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     initTrees(); 
     
-    cout << "=========================================\n";
+    cout << "=========================================\n"; // Header Program
     cout << "  SISTEM IDENTIFIKASI MAKHLUK HIDUP     \n";
     cout << "         (DYNAMIC QUESTIONS)            \n";
     cout << "=========================================\n";
